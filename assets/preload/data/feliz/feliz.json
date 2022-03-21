@@ -33,7 +33,7 @@
 				]
 			]
 		],
-		"gfVersion": "gf",
+		"player3": "gf",
 		"player2": "senpai",
 		"notes": [
 			{
@@ -4088,7 +4088,6 @@
 				"mustHitSection": true
 			}
 		],
-		"player3": null,
 		"song": "Feliz",
 		"validScore": true,
 		"needsVoices": true,
