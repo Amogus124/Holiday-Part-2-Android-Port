@@ -4,7 +4,6 @@
 		"stage": "zantaStage",
 		"player1": "edd",
 		"player2": "zanta",
-		"player3": null,
 		"events": [
 			[
 				11267.6056338028,
@@ -600,7 +599,7 @@
 		"notes": [],
 		"splashSkin": null,
 		"validScore": false,
-		"gfVersion": "gf",
+		"player3": "gf",
 		"bpm": 213,
 		"arrowSkin": null,
 		"needsVoices": true,

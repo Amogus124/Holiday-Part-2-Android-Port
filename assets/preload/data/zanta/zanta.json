@@ -7035,7 +7035,7 @@
 			}
 		],
 		"player2": "zanta",
-		"gfVersion": "gf-holiday",
+		"player3": "gf-holiday",
 		"events": [
 			[
 				11267.6056338028,
@@ -7668,7 +7668,6 @@
 				]
 			]
 		],
-		"player3": null,
 		"song": "zanta",
 		"stage": "zantaStage",
 		"arrowSkin": "NOTE_taiko",

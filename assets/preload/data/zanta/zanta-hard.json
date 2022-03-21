@@ -8059,7 +8059,7 @@
 				"mustHitSection": true
 			}
 		],
-		"gfVersion": "gf",
+		"player3": "gf",
 		"events": [
 			[
 				11267.6056338028,
@@ -8432,7 +8432,6 @@
 				]
 			]
 		],
-		"player3": null,
 		"song": "zanta",
 		"stage": "zantaStage",
 		"needsVoices": true,
