@@ -10292,9 +10292,8 @@
 				"mustHitSection": true
 			}
 		],
-		"gfVersion": "gf-holiday",
+		"player3": "gf-holiday",
 		"events": [],
-		"player3": null,
 		"song": "hark",
 		"validScore": true,
 		"needsVoices": true,
