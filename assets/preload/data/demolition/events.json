@@ -4,7 +4,6 @@
 		"stage": "tomstage",
 		"player1": "bf-holiday",
 		"player2": "tom",
-		"player3": null,
 		"events": [
 			[
 				0,
@@ -180,7 +179,7 @@
 		"notes": [],
 		"splashSkin": "noteSplashes",
 		"validScore": false,
-		"gfVersion": "gf-holiday",
+		"player3": "gf-holiday",
 		"bpm": 115,
 		"arrowSkin": "",
 		"needsVoices": true,

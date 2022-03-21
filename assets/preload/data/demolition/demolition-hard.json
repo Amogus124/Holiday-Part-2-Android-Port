@@ -163,7 +163,7 @@
 				]
 			]
 		],
-		"gfVersion": "gf-holiday-car",
+		"player3": "gf-holiday-car",
 		"notes": [
 			{
 				"sectionNotes": [],
@@ -2363,7 +2363,6 @@
 			}
 		],
 		"player2": "tom",
-		"player3": null,
 		"splashSkin": "noteSplashes",
 		"song": "Demolition",
 		"needsVoices": true,
