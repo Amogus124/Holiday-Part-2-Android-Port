@@ -3099,7 +3099,7 @@
 			}
 		],
 		"player2": "mom-holiday-car",
-		"gfVersion": "gf-holiday-car",
+		"player3": "gf-holiday-car",
 		"events": [
 			[
 				36478.2608695652,
@@ -3452,7 +3452,6 @@
 				]
 			]
 		],
-		"player3": null,
 		"song": "You",
 		"validScore": true,
 		"needsVoices": true,
