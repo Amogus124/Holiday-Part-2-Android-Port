@@ -95,8 +95,6 @@ class Song
 		
 		var formattedFolder:String = Paths.formatToSongPath(folder);
 		var formattedSong:String = Paths.formatToSongPath(jsonInput)();
-		}
-		#end
 
 		while (!rawJson.endsWith("}"))
 		{
