@@ -94,7 +94,12 @@ class Song
 		var rawJson = null;
 		
 		var formattedFolder:String = Paths.formatToSongPath(folder);
-		var formattedSong:String = Paths.formatToSongPath(jsonInput)();
+		var formattedSong:String = Paths.formatToSongPath(jsonInput);
+
+		if(rawJson == null) 
+		{
+			rawJson = Assets.getText(Paths.json(formattedFolder + '/' + formattedSong)).trim();
+		}
 
 		while (!rawJson.endsWith("}"))
 		{
