@@ -221,13 +221,15 @@ class ChartingState extends MusicBeatState
 			_song = {
 				song: 'Test',
 				notes: [],
+				events: [],
 				bpm: 150.0,
 				needsVoices: true,
 				arrowSkin: '',
-				splashSkin: '',
+				splashSkin: 'noteSplashes',//idk it would crash if i didn't
 				player1: 'bf',
 				player2: 'dad',
-				player3: 'gf',
+				player3: null,
+				gfVersion: 'gf',
 				speed: 1,
 				stage: 'stage',
 				validScore: false
@@ -2044,6 +2046,7 @@ class ChartingState extends MusicBeatState
 			player1: _song.player1,
 			player2: _song.player2,
 			player3: _song.player3,
+			gfVersion: _song.gfVersion,
 			stage: _song.stage,
 			validScore: false
 		};
